@@ -1,0 +1,5 @@
+{'results': [{'address_components': [{'long_name': 'Thon Buri', 'short_name': 'Thon Buri', 'types': 
+['sublocality_level_1', 'sublocality', 'political']}, {'long_name': 'Bangkok', 'short_name': 'Bangkok', 'types': ['locality', 'political']}, {'long_name': 'Bangkok', 'short_name': 'Bangkok', 'types': 
+['administrative_area_level_1', 'political']}, {'long_name': 'Thailand', 'short_name': 'TH', 'types': ['country', 'political']}], 'formatted_address': 'Thon Buri, Bangkok, Thailand', 'geometry': {'bounds': {'northeast': {'lat': 13.7424409, 'lng': 100.4983498}, 'southwest': {'lat': 13.694656, 'lng': 
+100.4676981}}, 'location': {'lat': 13.7164911, 'lng': 100.4874338}, 'location_type': 'APPROXIMATE', 
+'viewport': {'northeast': {'lat': 13.7424409, 'lng': 100.4983498}, 'southwest': {'lat': 13.694656, 'lng': 100.4676981}}}, 'partial_match': True, 'place_id': 'ChIJiVcgOV-Y4jARcE7iXbIAAQM', 'types': ['sublocality_level_1', 'sublocality', 'political']}], 'status': 'OK'}
